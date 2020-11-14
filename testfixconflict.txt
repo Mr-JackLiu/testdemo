@@ -1,5 +1,6 @@
 这是一个测试文件冲突解决方式实践的文件！！
-准备在这里制造冲突; update at mster for 20201114;
+准备在这里制造冲突; update at master;
+准备在这里制造冲突; update at test_master;
 are you ready?
 go!!!
 create at 20201114;
